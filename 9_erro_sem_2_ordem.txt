@@ -1,0 +1,3 @@
+10 input a
+5 print a
+20 end

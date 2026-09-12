@@ -1,0 +1,4 @@
+10 input A
+20 let c = A + 1
+30 print c
+40 end

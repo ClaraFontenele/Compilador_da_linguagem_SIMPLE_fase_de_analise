@@ -1,0 +1,4 @@
+10 input a
+20 if a > 0 goto 999
+30 print a
+40 end

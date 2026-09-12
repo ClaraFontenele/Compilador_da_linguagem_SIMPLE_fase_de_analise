@@ -1,0 +1,15 @@
+10 rem ============================================================
+20 rem COMPILADOR SIMPLE -- TAYLOR'S VERSION
+30 rem "...Ready for it?"
+40 rem Este programa calcula se o ano de nascimento eh multiplo
+50 rem do numero da sorte da Taylor: o 13! O resto da divisao
+60 rem inteira por 13 e impresso: se for 0, o ano e multiplo de 13.
+70 rem ============================================================
+80 input a
+90 let b = a % 13
+100 print b
+110 if b == 0 goto 140
+120 rem nao e multiplo de 13... shake it off!
+130 goto 150
+140 rem e um multiplo de 13! lucky number 13!
+150 end

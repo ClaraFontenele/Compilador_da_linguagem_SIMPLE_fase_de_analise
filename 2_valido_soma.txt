@@ -1,0 +1,13 @@
+10 rem determina e imprime a soma de dois inteiros
+15 rem
+20 rem le os dois inteiros
+30 input a
+40 input b
+45 rem
+50 rem soma os inteiros e armazena o resultado em c
+60 let c = a + b
+65 rem
+70 rem imprime o resultado
+80 print c
+90 rem termina a execucao do programa
+99 end

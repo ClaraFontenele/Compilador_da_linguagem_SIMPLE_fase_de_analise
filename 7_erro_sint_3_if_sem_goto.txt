@@ -1,0 +1,4 @@
+10 input a
+20 if a > 0 40
+30 print a
+40 end
