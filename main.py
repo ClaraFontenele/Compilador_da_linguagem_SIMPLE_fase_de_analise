@@ -567,7 +567,7 @@ def selecionar_arquivo():
         "7": ("7_erro_sint_3_if_sem_goto.txt", "Erro Sintático 3: IF sem GOTO"),
         "8": ("8_erro_sem_1_goto_invalido.txt", "Erro Semântico 1: GOTO inválido"),
         "9": ("9_erro_sem_2_ordem.txt", "Erro Semântico 2: Ordem incorreta"),
-        "10": ("10_erro_sem_3_div_zero.txt", "Erro Semântico 3: Divisão por zero")
+        "10": ("10_erro_sem_3_div_zero.txt", "Erro Semântico 3: Divisão por zero"),
         "11": ("11_arquivo_para_editar.txt", "Erro Semântico 3: Divisão por zero")
     }
 
